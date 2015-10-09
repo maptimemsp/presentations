@@ -51,6 +51,7 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 ## 2014
 
 ### December: OSM Edit-a-thon
+* [Edit OSM!](http://fawcett.github.io/presentations/maptime-osm), presented by David Fawcett
 * *Group work session (OSM)*
 
 ### November: The Legend Begins
