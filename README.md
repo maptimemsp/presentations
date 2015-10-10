@@ -20,6 +20,7 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 * *[CartoDB](http://enam.github.io/cartodb-tutorial/index.html)*, presented by Paul Wickman
 
 ### April: HOT Mapping for Nepal
+* *[MapGive | Learn to Map](http://mapgive.state.gov/learn-to-map)*, shared by Taylor Long
 * *Group work session (OSM HOT)*
 
 ### April: Pitch a Problem
@@ -27,7 +28,7 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ### March: Tools for Making maps
 * *[Color Accessibility](https://speakerdeck.com/geospatialem/maptimemsp-tools-color-accessibility)*, presented by Kitty Hurley
-* *QGIS*, presented by David Fawcett
+* *[QGIS Resources](https://gist.github.com/fawcett/18a5ee88781033cea688)*, presented by David Fawcett
 
 ### February: All About Data
 * *LiDAR Data*, presented by Zeb Thomas
