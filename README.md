@@ -4,6 +4,11 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2015
 
+### October: Favorite Resources & Maps
+* *[Maptime Introductory Slides](http://slides.com/geospatialem/maptimemsp-2015-10-27#/)*, presented by Kitty Hurley  
+* *[Census Reporter](https://drive.google.com/file/d/0B5ZqVqj7mSKOZUt0a292QXlLc0U/view)*, presented by Mike Dolbow
+* *[Census Data Visualizations](https://docs.google.com/presentation/d/1FJj_LNGRPf1WdSS9smwLgzsQSsaB18MLw2wb6vaUZQE/edit?usp=sharing)*, presented by Ryan Mattke
+
 ### September: Cartography & Typography
 * *[Project Linework](http://www.projectlinework.org)*, presented by Marty Elmer
 * *[Cartographic Typography](/cantner_typography_sept_2015.pdf)* (PDF), presented by Kat Cantner
