@@ -8,6 +8,8 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 * *[Maptime Introductory Slides](http://slides.com/geospatialem/maptimemsp-2015-10-27#/)*, presented by Kitty Hurley  
 * *[Census Reporter](https://drive.google.com/file/d/0B5ZqVqj7mSKOZUt0a292QXlLc0U/view)*, presented by Mike Dolbow
 * *[Census Data Visualizations](https://docs.google.com/presentation/d/1FJj_LNGRPf1WdSS9smwLgzsQSsaB18MLw2wb6vaUZQE/edit?usp=sharing)*, presented by Ryan Mattke
+* *[NACIS Presentation Links](https://docs.google.com/spreadsheets/d/1lQrJ4mJ-V-xHkdHLyZT5ZVshZYvXMGzyEHRveUycEY0/edit#gid=0)*, compiled by the NACIS Community
+* *[NACIS Conference Notes](https://github.com/geospatialem/conferences/blob/master/2015/2015NACIS.md)*, compiled by Kitty Hurley
 
 ### September: Cartography & Typography
 * *[Project Linework](http://www.projectlinework.org)*, presented by Marty Elmer
