@@ -4,6 +4,11 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2015
 
+### November: Pointclouds
+* *[Maptime Introductory Slides]()*, presented by David Fawcett
+* *[Pointclouds]()*, presented by Howard Butler
+* *Resource:* [Speck.ly](http://speck.ly)
+
 ### October: Favorite Resources & Maps
 * *[Maptime Introductory Slides](http://slides.com/geospatialem/maptimemsp-2015-10-27#/)*, presented by Kitty Hurley  
 * *[Census Reporter](https://drive.google.com/file/d/0B5ZqVqj7mSKOZUt0a292QXlLc0U/view)*, presented by Mike Dolbow
