@@ -4,6 +4,12 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2015
 
+### December: OpenSteetMap Edit-a-thon
+* *[Maptime Introductory Slides](maptime_dec_2015_intro.md)*, presented by David Fawcett
+* *[You've Got an OSM Account - Now What?!](https://docs.google.com/presentation/d/1wrZQa2I8DAe9e7dZh4IiJQl5ZOhv7tGAdILGgg4iA6g/edit#slide=id.p)*, presented by Brad Neuhauser
+* *[OSM Resources](osm_resources.md)*
+
+
 ### November: Pointclouds
 * *[Maptime Introductory Slides](maptime_nov2015_intro.pdf)*, presented by David Fawcett
 * *[Pointclouds](hobu-point-clouds-msp-maptime-nov-2015.pdf)*, presented by Howard Butler
