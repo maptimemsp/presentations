@@ -16,8 +16,8 @@
   * [Mapzen Turn-by-Turn](https://mapzen.com/projects/valhalla)
 * map products
   * tiles
-    * Mapquest
-    * Stamen
+    * [Mapquest](http://open.mapquestapi.com/)
+    * [Stamen](http://maps.stamen.com/#toner)
   * Data
     * [Built-in Mapbox](https://www.mapbox.com/help/osm-and-mapbox/)
     * Built-in Mapzen
@@ -55,6 +55,5 @@
 * [Map Features](http://wiki.openstreetmap.org/wiki/Map_Features)
 
 ### Challenges
-
 * [MapRoulette](http://maproulette.org/)
 * [Fix Roads](http://improve-osm.org/missingRoads)
