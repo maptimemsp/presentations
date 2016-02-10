@@ -2,6 +2,13 @@
 
 Presentations, slide decks, and other resources from Maptime MSP Meetings. Newest content on the top!
 
+## 2016
+
+### January: Python
+* *[Python... The Beginning / er](maptime_msp_python_rachel_koch.pdf)*, presented by Rachel Koch
+* *[Maptime MSP: Python](python_tyler_johnson.pdf)*, presented by Tyler Johnson
+* *[Maptime Python](maptime_python_january_2016_zeb_thomas.pdf)*, presented by Zeb Thomas
+
 ## 2015
 
 ### December: OpenSteetMap Edit-a-thon
