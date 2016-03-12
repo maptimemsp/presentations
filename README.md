@@ -4,6 +4,10 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2016
 
+### February: Cartography Tricks
+* *[Illustrator in 15 minutes](illustrator-15mins-feb_2016_nat_case.pdf)*, presented by Nat Case
+* *Photoshop tricks*, presented by David Montgomery
+
 ### January: Python
 * *[Python... The Beginning / er](maptime_msp_python_rachel_koch.pdf)*, presented by Rachel Koch
 * *[Maptime MSP: Python](python_tyler_johnson.pdf)*, presented by Tyler Johnson
