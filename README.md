@@ -4,6 +4,35 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2016
 
+### March: What We Are Working On
+* Internal Map Applications for a Non-Profit, presented by Cory Teshera
+  * Cory is in the process of scoping, designing, and selecting the technical solution an internal application for a non-profit organization.  
+* Map Interface for Downloading Custom Map, presented by Rick Cheney
+  *  Rick showed a prototype for selecting an area of the Quetico Provincial Park and then downloading a detailed map of the area.  http://quetico.info/map-test.htm
+* Experiments in Mapping with Leaflet and d3.js, presented by David Fawcett
+  * David showed some examples of Web maps that he has been working on, and talked about when using Leaflet or d3.js may be more appropriate.  
+  1. Stormwater - Leaflet Example
+    * http://fawcett.github.io/mpls-stormwater/lightup.html
+    * https://github.com/fawcett/mpls-stormwater/blob/master/lightup.html
+  2. Stormwater d3.js Example    
+    * http://fawcett.github.io/mpls-stormwater/lightupd3.html
+    * https://github.com/fawcett/mpls-stormwater/blob/master/lightupd3.html
+  3. Open Data Leaflet + d3.js Example  
+    * http://fawcett.github.io/openmap/index.html
+    * https://github.com/fawcett/openmap/blob/master/index.html
+  4. Open Data d3.js Example  
+    * http://fawcett.github.io/openmap/indexd3.html
+    * https://github.com/fawcett/openmap/blob/master/indexd3.html
+  5. Winter Camping Trip Map
+    * http://fawcett.github.io/winter-camping-2016/
+    * https://github.com/fawcett/winter-camping-2016
+
+* Vaccination Outcomes in Relation to Environmental Risk and Social Vulnerability, presented by Claire Hofius
+  * Claire summarized her honors project that examines the relationships between vaccination rates in California, and socio-economic and environmental factors.  
+* Application for Bicyclists (from Geocode and Geocode 2.0), presented by Liz Puhl and Boyd Johnson
+  * This application was started at the original Hennepin County GeoCode event, and it was one of the projects worked on at the recent GeoCode 2.0 event.  The application is still in the prototype stage, but would provide routing for cyclists, notifications about current incidents, the ability for cyclists to report adverse conditions, and the pushing of notifications to local governments via their 311 apis.
+  * [Presentation](https://docs.google.com/presentation/d/1bl740IMNUaEX1hT_I7mmud_pz1oZ_L5xjFve4oTtvKA/edit?pref=2&pli=1#slide=id.g84695dcb6_0_91)
+  
 ### February: Cartography Tricks
 * *[Illustrator in 15 minutes](illustrator-15mins-feb_2016_nat_case.pdf)*, presented by Nat Case
 * *Photoshop tricks*, presented by David Montgomery
