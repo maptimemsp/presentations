@@ -33,9 +33,9 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 
 * Vaccination Outcomes in Relation to Environmental Risk and Social Vulnerability, presented by Claire Hofius
-  * Claire summarized her honors project that examines the relationships between vaccination rates in California, and socio-economic and environmental factors.  
+  * Claire summarized her honors project that examines the relationships between vaccination rates in California, and socio-economic and environmental factors.  There was a question about one of the statistical tools that she used.  You can read more about it at: http://www.satscan.org/
 
-  
+
 * Application for Bicyclists (from Geocode and Geocode 2.0), presented by Liz Puhl and Boyd Johnson
   * This application was started at the original Hennepin County GeoCode event, and it was one of the projects worked on at the recent GeoCode 2.0 event.  The application is still in the prototype stage, but would provide routing for cyclists, notifications about current incidents, the ability for cyclists to report adverse conditions, and the pushing of notifications to local governments via their 311 apis.
   * [Presentation](https://docs.google.com/presentation/d/1bl740IMNUaEX1hT_I7mmud_pz1oZ_L5xjFve4oTtvKA/edit?pref=2&pli=1#slide=id.g84695dcb6_0_91)
