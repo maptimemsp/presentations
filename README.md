@@ -4,6 +4,10 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2016
 
+### May: Borchert Map Library Tour
+* *[Borchert Map Library
+Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Ryan Mattke
+
 ### March: What We Are Working On
 * Internal Map Applications for a Non-Profit, presented by Cory Teshera
   * Cory is in the process of scoping, designing, and selecting the technical solution an internal application for a non-profit organization.  
