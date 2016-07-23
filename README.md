@@ -4,6 +4,12 @@ Presentations, slide decks, and other resources from Maptime MSP Meetings. Newes
 
 ## 2016
 
+## July: Map Art
+*[Make Map Art](http://bit.ly/maptimemsp_map-art)*, presented by Jacqueline Kovarik
+
+## June: Maptime MSP + Open Twin Cities Map-stravaganza 
+*Content coming soon!*
+
 ### May: Borchert Map Library Tour
 * *[Borchert Map Library
 Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Ryan Mattke
