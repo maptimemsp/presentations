@@ -2,19 +2,19 @@
 
 Presentations, slide decks, and other resources from Maptime MSP Meetings. Newest content on the top!
 
-## 2016
+# 2016
 
 ## July: Map Art
 *[Make Map Art](http://bit.ly/maptimemsp_map-art)*, presented by Jacqueline Kovarik
 
-## June: Maptime MSP + Open Twin Cities Map-stravaganza 
+## June: Maptime MSP + Open Twin Cities Map-stravaganza
 *Content coming soon!*
 
-### May: Borchert Map Library Tour
+## May: Borchert Map Library Tour
 * *[Borchert Map Library
 Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Ryan Mattke
 
-### March: What We Are Working On
+## March: What We Are Working On
 * Internal Map Applications for a Non-Profit, presented by Cory Teshera
   * Cory is in the process of scoping, designing, and selecting the technical solution an internal application for a non-profit organization.  
 
@@ -50,67 +50,67 @@ Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Rya
   * This application was started at the original Hennepin County GeoCode event, and it was one of the projects worked on at the recent GeoCode 2.0 event.  The application is still in the prototype stage, but would provide routing for cyclists, notifications about current incidents, the ability for cyclists to report adverse conditions, and the pushing of notifications to local governments via their 311 apis.
   * [Presentation](https://docs.google.com/presentation/d/1bl740IMNUaEX1hT_I7mmud_pz1oZ_L5xjFve4oTtvKA/edit?pref=2&pli=1#slide=id.g84695dcb6_0_91)
 
-### February: Cartography Tricks
+## February: Cartography Tricks
 * *[Illustrator in 15 minutes](illustrator-15mins-feb_2016_nat_case.pdf)*, presented by Nat Case
 * *Photoshop tricks*, presented by David Montgomery
 
-### January: Python
+## January: Python
 * *[Python... The Beginning / er](maptime_msp_python_rachel_koch.pdf)*, presented by Rachel Koch
 * *[Maptime MSP: Python](python_tyler_johnson.pdf)*, presented by Tyler Johnson
 * *[Maptime Python](maptime_python_january_2016_zeb_thomas.pdf)*, presented by Zeb Thomas
 
-## 2015
+# 2015
 
-### December: OpenSteetMap Edit-a-thon
+## December: OpenSteetMap Edit-a-thon
 * *[Maptime Introductory Slides](maptime_dec_2015_intro.md)*, presented by David Fawcett
 * *[You've Got an OSM Account - Now What?!](https://docs.google.com/presentation/d/1wrZQa2I8DAe9e7dZh4IiJQl5ZOhv7tGAdILGgg4iA6g/edit#slide=id.p)*, presented by Brad Neuhauser
 * *[OSM Resources](osm_resources.md)*
 
 
-### November: Pointclouds
+## November: Pointclouds
 * *[Maptime Introductory Slides](maptime_nov2015_intro.pdf)*, presented by David Fawcett
 * *[Pointclouds](hobu-point-clouds-msp-maptime-nov-2015.pdf)*, presented by Howard Butler
 * *Resource:* [Speck.ly](http://speck.ly)
 
-### October: Favorite Resources & Maps
+## October: Favorite Resources & Maps
 * *[Maptime Introductory Slides](http://slides.com/geospatialem/maptimemsp-2015-10-27#/)*, presented by Kitty Hurley  
 * *[Census Reporter](https://drive.google.com/file/d/0B5ZqVqj7mSKOZUt0a292QXlLc0U/view)*, presented by Mike Dolbow
 * *[Census Data Visualizations](https://docs.google.com/presentation/d/1FJj_LNGRPf1WdSS9smwLgzsQSsaB18MLw2wb6vaUZQE/edit?usp=sharing)*, presented by Ryan Mattke
 * *[NACIS Presentation Links](https://docs.google.com/spreadsheets/d/1lQrJ4mJ-V-xHkdHLyZT5ZVshZYvXMGzyEHRveUycEY0/edit#gid=0)*, compiled by the NACIS Community
 * *[NACIS Conference Notes](https://github.com/geospatialem/conferences/blob/master/2015/2015NACIS.md)*, compiled by Kitty Hurley
 
-### September: Cartography & Typography
+## September: Cartography & Typography
 * *[Project Linework](http://www.projectlinework.org)*, presented by Marty Elmer
 * *[Cartographic Typography](/cantner_typography_sept_2015.pdf)* (PDF), presented by Kat Cantner
 
-### August: Collaborative Work Session
+## August: Collaborative Work Session
 * *[NACIS Interactive Map](http://slides.com/geospatialem/maptimemsp-2015-08-19)*, presented by Kitty Hurley
 * *Group work session (NACIS map)*
 
-### July: GitHub
+## July: GitHub
 * *How to Git*, presented by David Fawcett
 * *Group work session (NACIS map)*
 
-### June: CartoDB
+## June: CartoDB
 * *[CartoDB](http://enam.github.io/cartodb-tutorial/index.html)*, presented by Paul Wickman
 
-### April: HOT Mapping for Nepal
+## April: HOT Mapping for Nepal
 * *[MapGive | Learn to Map](http://mapgive.state.gov/learn-to-map)*, shared by Taylor Long
 * *Group work session (OSM HOT)*
 
-### April: Pitch a Problem
+## April: Pitch a Problem
 * *Group work session (Group projects)*
 
-### March: Tools for Making maps
+## March: Tools for Making maps
 * *[Color Accessibility](https://speakerdeck.com/geospatialem/maptimemsp-tools-color-accessibility)*, presented by Kitty Hurley
 * *[QGIS Resources](https://gist.github.com/fawcett/18a5ee88781033cea688)*, presented by David Fawcett
 
-### February: All About Data
+## February: All About Data
 * *LiDAR Data*, presented by Zeb Thomas
 * *Free and Open Data*, presented by Geoff Maas
 * *[Introduction to Geographic Data Formats](http://maptime.io/geodata)*, presented by Kitty Hurley (slides by Lyzi Diamond)
 
-### January: Maps We Love
+## January: Maps We Love
 * *[Google maps' imagery updates](https://www.google.com/maps/@44.9764786,-93.2242752,345m/data=!3m1!1e3?hl=en)*, shared by Devon P.
 * *[Battle of Gettysburg](http://storymaps.esri.com/stories/2013/gettysburg)*, shared by John Nerge
 * *[Go Running](http://www.thewire.com/national/2014/02/cities-mapped-where-their-people-go-running/357792)*, shared by Ryan Mattke
@@ -124,11 +124,11 @@ Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Rya
 * *[Ya'll Map](http://www.floatingsheep.org/2014/05/hey-yall-geographies-of-colloquialism.html)*, shared by Taylor Long
 * *[Lord of the Rings Project](http://lotrproject.com/map)*, shared by Paul Wohlert
 
-## 2014
+# 2014
 
-### December: OSM Edit-a-thon
+## December: OSM Edit-a-thon
 * [Edit OSM!](http://fawcett.github.io/presentations/maptime-osm), presented by David Fawcett
 * *Group work session (OSM)*
 
-### November: The Legend Begins
+## November: The Legend Begins
 * *First Meetup!*
