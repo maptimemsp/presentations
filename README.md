@@ -2,7 +2,10 @@
 
 Presentations, slide decks, and other resources from Maptime MSP Meetings. Newest content on the top!
 
-# 2016
+# 2016  
+
+## August: Open Street Map + Open Data    
+*[Contributing to Open Street Map](http://bit.ly/maptimemsp_contribute-osm)*, presented by Joe Sapletal  
 
 ## July: Map Art
 *[Make Map Art](http://bit.ly/maptimemsp_map-art)*, presented by Jacqueline Kovarik
