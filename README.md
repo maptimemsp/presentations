@@ -54,13 +54,13 @@ Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Rya
   * [Presentation](https://docs.google.com/presentation/d/1bl740IMNUaEX1hT_I7mmud_pz1oZ_L5xjFve4oTtvKA/edit?pref=2&pli=1#slide=id.g84695dcb6_0_91)
 
 ## February: Cartography Tricks
-* *[Illustrator in 15 minutes](illustrator-15mins-feb_2016_nat_case.pdf)*, presented by Nat Case
+* *[Illustrator in 15 minutes](https://drive.google.com/open?id=0BxB4w4BGQEKjODVxWGJBc2Q2NDA)*, presented by Nat Case
 * *Photoshop tricks*, presented by David Montgomery
 
 ## January: Python
-* *[Python... The Beginning / er](maptime_msp_python_rachel_koch.pdf)*, presented by Rachel Koch
-* *[Maptime MSP: Python](python_tyler_johnson.pdf)*, presented by Tyler Johnson
-* *[Maptime Python](maptime_python_january_2016_zeb_thomas.pdf)*, presented by Zeb Thomas
+* *[Python... The Beginning / er](https://drive.google.com/open?id=0BxB4w4BGQEKjVm4tR1B2RklKdzg)*, presented by Rachel Koch
+* *[Maptime MSP: Python](https://drive.google.com/open?id=0BxB4w4BGQEKjZ25ZbkY2a2o2X00)*, presented by Tyler Johnson
+* *[Maptime Python](https://drive.google.com/open?id=0BxB4w4BGQEKjRTNYT0lGdEdWRDA)*, presented by Zeb Thomas
 
 # 2015
 
@@ -71,8 +71,8 @@ Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Rya
 
 
 ## November: Pointclouds
-* *[Maptime Introductory Slides](maptime_nov2015_intro.pdf)*, presented by David Fawcett
-* *[Pointclouds](hobu-point-clouds-msp-maptime-nov-2015.pdf)*, presented by Howard Butler
+* *[Maptime Introductory Slides](https://drive.google.com/open?id=0BxB4w4BGQEKjSE9kNTJEaTRON2c)*, presented by David Fawcett
+* *[Pointclouds](https://drive.google.com/open?id=0BxB4w4BGQEKjS3lReWFFa1RQa3c)*, presented by Howard Butler
 * *Resource:* [Speck.ly](http://speck.ly)
 
 ## October: Favorite Resources & Maps
@@ -84,7 +84,7 @@ Online Projects & Resources](http://z.umn.edu/maptimemay2016)*, presented by Rya
 
 ## September: Cartography & Typography
 * *[Project Linework](http://www.projectlinework.org)*, presented by Marty Elmer
-* *[Cartographic Typography](/cantner_typography_sept_2015.pdf)* (PDF), presented by Kat Cantner
+* *[Cartographic Typography](https://drive.google.com/open?id=0BxB4w4BGQEKjQi1nWmVlTzY0UlE)* (PDF), presented by Kat Cantner
 
 ## August: Collaborative Work Session
 * *[NACIS Interactive Map](http://slides.com/geospatialem/maptimemsp-2015-08-19)*, presented by Kitty Hurley
