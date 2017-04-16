@@ -1,6 +1,22 @@
 # Maptime MSP Presentations
 
-Presentations, slide decks, and other resources from Maptime MSP Meetings. Newest content on the top!
+Presentations, slide decks, and other resources from Maptime MSP Meetings. Newest content on the top!  
+
+# 2017  
+
+## April: Turf.js and Node.js  
+* *[The Grass is Greener with Turf.js](https://docs.google.com/presentation/d/1ilsZ9CcQQK25GGkOildPBvTcTdX_EPQ4v1YybsOEMtw)*, presented by [Andy Walz](https://twitter.com/andywalz) ([GitHub repository](https://github.com/andywalz/maptime-turf))  
+* *[User presentation: Tee signs for Gunn Park](http://customcoursemaps.com/april-maptime-presentation-tee-signs-gunn-park/)*, presented by [Richard Rasch](https://twitter.com/RJRasch)  
+
+### Additional Resources  
+* [Leaflet Tutorials](http://leafletjs.com/examples.html), provided by [Andy Walz](https://twitter.com/andywalz)  
+* [TopoJSON](https://github.com/topojson/topojson), provided by [Andy Walz](https://twitter.com/andywalz)     
+* [Turf.js example: Nearest Starbucks](https://www.mapbox.com/bites/00087), provided by [Andy Walz](https://twitter.com/andywalz)  
+* [Turf.js Buffering](https://github.com/Turfjs/turf-buffer/pull/33), provided by [Michael Moore](https://twitter.com/stuporglue)  
+* [Turf.js Within/Inside](https://github.com/Turfjs/turf/blob/master/packages/turf-inside/index.js), provided by [Michael Moore](https://twitter.com/stuporglue)  
+* [Turf.js Distance](https://github.com/Turfjs/turf/tree/master/packages/turf-distance), provided by [Michael Moore](https://twitter.com/stuporglue)  
+* [Turf.js Midpoint](https://github.com/Turfjs/turf/tree/master/packages/turf-midpoint), provided by [Michael Moore](https://twitter.com/stuporglue)  
+* [Geospatial Advisory Council GovDelivery Subscription](https://public.govdelivery.com/accounts/MNIT/subscriber/new?topic_id=MNIT_62) & [Latest Bulletin](https://content.govdelivery.com/accounts/MNIT/bulletins/18dd94a), provided by [Mike Dolbow](https://twitter.com/mmdolbow)  
 
 # 2016  
 
